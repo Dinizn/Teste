@@ -1,0 +1,3 @@
+nome = "MIQUÉIAS"
+
+print ("MIQUÉIAS")
